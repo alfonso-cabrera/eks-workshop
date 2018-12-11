@@ -3,10 +3,11 @@ title: Credits
 disableToc: true
 ---
 
-### Thanks to our wonderful contributors <i class="fas fa-heart"></i> for making Open Source a better place!
+## Thanks to the awesome workshop creators and contributors! <i class="fas fa-heart"></i>
+
+### Alfonso Cabrera, Solutions Architect - AWS
+### Sam Dengler, Solutions Architect - AWS
 
 <!---
 note: change the url to match the new repo... using old repo as an example placeholder
 --->
-
-{{% ghcontributors "https://api.github.com/repos/aws-samples/eks-workshop/contributors?per_page=1000" %}}
